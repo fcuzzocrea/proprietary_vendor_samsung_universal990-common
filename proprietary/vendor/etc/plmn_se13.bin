@@ -57,9 +57,8 @@ $
 21404YOIGO"YOIGO
 
 21407Movistar"Movistar
-
-21601
-Telenor HU"TelenorH
+
+21601	Yettel HU"Yettel
 !
 21603Digi.Mobil HU"Digi HU
 
@@ -79,8 +78,9 @@ Telekom HU"THU
 21902TM HR"TM HR
 
 21910A1 HR"A1 HR
-
-22001Telenor SRB"Telenor
+
+22001
+SRB Yettel"Yettel
 
 22003mt:s"MTS
 
@@ -1096,8 +1096,8 @@ ZET-MOBILE"Z-MOBILE
 
 43701
 Beeline KG"Beeline
-
-43705MegaCom"MegaCom
+
+43705MEGA"MEGA
 
 43709O!"O!
 
@@ -1845,6 +1845,8 @@ TelkomSA-R"Telkom-R
 73602BOMOV"EMOVIL
 
 73603TIGO"TIGO
+
+73800ENet"ENet
 
 73801Digicel"Digicel
 #
@@ -1895,4 +1897,4 @@ AeroMobile"AeroMob
 
 90150EchoStar Mobile"EML
 
-90171Tampnet"Tampnet)Published TS.25 Database 19 December 2022
+90171Tampnet"Tampnet)Published TS.25 Database 27 February 2023
